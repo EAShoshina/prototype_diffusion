@@ -12,7 +12,7 @@
 
 ## Цель проекта
 
-Разработка прототипа системы для генерации финансовых временных рядов и оценки хвостовых рисков (VaR, Expected Shortfall) на основе диффузионных моделей.
+Разработать модель оценки хвостовых финансовых рисков на основе диффузионных генеративных моделей с использованием архитектуры трансформеров. 
 
 ---
 
@@ -51,7 +51,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone https://github.com/USERNAME/diffusion-financial-risk
+git clone https://github.com/eashoshina/diffusion-financial-risk
 cd diffusion-financial-risk
 ```
 
